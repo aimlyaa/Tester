@@ -1,0 +1,100 @@
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\aimlyaa\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shara\TesterClient\TesterClient\obj\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetResult.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetResult.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shara\shs\TesterClient\TesterClient\obj\Debug\TesterClient.pdb
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetResult.resources
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\Бодянус\Desktop\shs\TesterClient\TesterClient\obj\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\TesterClient.exe.config
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\TesterClient.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.csprojAssemblyReference.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.auth.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.GetResult.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.GetTest.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.Properties.Resources.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.Test.resources
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.csproj.GenerateResource.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.csproj.CoreCompileInputs.cache
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.csproj.CopyComplete
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.exe
+C:\Users\aimlyaa\Desktop\shara\shs\TesterClient local\TesterClient\obj\Debug\TesterClient.pdb
