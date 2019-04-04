@@ -90,5 +90,11 @@ namespace TesterClient
                 Location = mousePos;
             }
         }
+
+        private void Button4_Click(object sender, EventArgs e)
+        {
+            About about = new About();
+            about.ShowDialog();
+        }
     }
 }
