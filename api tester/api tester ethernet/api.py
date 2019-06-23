@@ -21,7 +21,7 @@ mydb = mysql.connector.connect(
   host="localhost",
   user="root",
   #passwd=binary
-  passwd = "170799ssS"
+  passwd = "********"
 )
 print("""______________________________________
          DONE
